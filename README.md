@@ -15,8 +15,6 @@ similar users have also liked i.e. predicting unknown ratings by using similarit
 I used an Amazon fine-food-reviews dataset that I found on [Kaggle](https://www.kaggle.com/snap/amazon-fine-food-reviews).
 
 ----
-### Visualizations in the dataset
-There are 
 ### Jupyter notebook 
 The project was completed using a jupyter notebook that consists of 2 parts viz:
 
@@ -25,6 +23,17 @@ Part 1:
 
 Part 2:
  Modeliing
+ ----
+ ### Visualizations in the dataset
+There are three figures provided. These are visualizations created in the exploratory data analysis (section ii) of Part 1. All three 
+visualizations were created using Plotly express. The charts have also been included as an image file with links attached.
+
+A summary of the each chart is provided below:
+![top terms](images/Figure 1-Distribution of Scores.png)
+<div align="center"> Figure 1-Distribution of Scores.png</div>
+<br>
+
+
 
 ### References
 - https://towardsdatascience.com/building-and-testing-recommender-systems-with-surprise-step-by-step-d4ba702ef80b
