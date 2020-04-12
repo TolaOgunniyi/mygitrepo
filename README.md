@@ -15,7 +15,8 @@ similar users have also liked i.e. predicting unknown ratings by using similarit
 I used an Amazon fine-food-reviews dataset that I found on [Kaggle](https://www.kaggle.com/snap/amazon-fine-food-reviews).
 
 ----
-
+### Visualizations in the dataset
+There are 
 ### Jupyter notebook 
 The project was completed using a jupyter notebook that consists of 2 parts viz:
 
